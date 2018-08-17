@@ -1,0 +1,10 @@
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\bin\Debug\Correção_AT_2Tri_2EMIA.exe.config
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\bin\Debug\Correção_AT_2Tri_2EMIA.exe
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\bin\Debug\Correção_AT_2Tri_2EMIA.pdb
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.csprojAssemblyReference.cache
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.Form1.resources
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.Properties.Resources.resources
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.csproj.GenerateResource.cache
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.csproj.CoreCompileInputs.cache
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.exe
+D:\Correção_AT_2Tri_2EMIA\Correção_AT_2Tri_2EMIA\obj\Debug\Correção_AT_2Tri_2EMIA.pdb
